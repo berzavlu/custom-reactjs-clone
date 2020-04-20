@@ -1,0 +1,25 @@
+{
+  "name": "custom-reactjs-clone",
+  "version": "1.0.0",
+  "description": "ejemplo de la conferencia en https://www.youtube.com/watch?v=f2mMOiCSj5c",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berzavlu/custom-reactjs-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berzavlu/custom-reactjs-clone/issues"
+  },
+  "homepage": "https://github.com/berzavlu/custom-reactjs-clone#readme"
+}
